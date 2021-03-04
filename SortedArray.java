@@ -13,6 +13,7 @@ public class SortedArray {
                 i++;
             }
         }
+        scanner.close();
         return myArray;
     }
 
